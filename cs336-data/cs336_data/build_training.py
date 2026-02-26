@@ -47,7 +47,7 @@ def process_positive_examples(warc_path: str, output_file: str, max_examples: in
 
 if __name__ == "__main__":
     warc_file = "/home/kantas/koa_scratch/ece405-assignment2-data/data/subsampled_positive_urls.warc.gz"
-    output_txt = "/home/kantas/koa_scratch/ece405-assignment2-data/cs336-data/cs336_data/train.txt"
+    output_txt = "/home/kantas/koa_scratch/ece405-assignment2-data/data/train.txt"
     
     # Run the processing pipeline
     process_positive_examples(warc_file, output_txt)
