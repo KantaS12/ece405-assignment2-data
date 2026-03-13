@@ -1,0 +1,182 @@
+=== HARMFUL CONTENT MANUAL REVIEW ===
+
+--- Example 1 ---
+URL: http://781.ablak.arnes.si/piwigo/picture.php?/3090/category/144
+NSFW Prediction: non-nsfw (Confidence: 0.9992)
+Toxic Prediction: non-toxic (Confidence: 0.9989)
+
+Text Snippet: OŠ Cankova   • Albums     VRTEC 2024-25 228 GOSPODIČNA POMLAD 20 PASAVČEK 3 TEDEN SLOVENSKE HRANE IN TRADICIONALNI SLOVENSKI ZAJTRK 37 SREČANJE Z DEDKI IN BABICAMI 82 TEDEN OTROKA 41 EVROPSKI TEDEN MOBILNOSTI 23 MNOŽIČNI TEK OTROK 11 TETKA JESEN 11 ŠOLA 2024-25 486 AJDA 12 SEJEM MEGRA 2025 5 SEJEM ALTERMED 6 PREŠERNOV DAN 8. FEBRUAR 82 NOVOLETNI BAZAR 94 PODROČNO KOŠARKA ST DEKLICE 18 SEKTORSKO TEKMOVANJE V ODBOJKI ZA STAREJŠE DEČKE 6 SEKTORSKO TEKMOVANJE V NOGOMETU ZA STAREJŠE DEČKE 11 TRADICIONALNI SLOVENSKI ZAJTRK - POROČILO 16 TRADICIONALNI SLOVENSKI ZAJTRK 15 KULTURNI DAN – OGLED OPERE 15 EVROPSKI DAN JEZIKOV 9 CŠOD KAVKA 133 5. DAN 18 4. DAN 45 3. DAN 37 2. DAN 26 1. DAN 7 OBISK PISATELJEV 45 1. ŠOLSKI DAN 19 Arhiv 2023-24 602 ŠOLA 2023-24 602 DODATNA ŠPORTNA PONUDBA V OŠ 18 TPL MEDVODE 13 TPL REGIJSKO 16 ŠPORTNI DAN – TROMEJNIK 55 VITANJE 23 ZADNJI ŠOLSKI DAN 161 ATLETIKA PODROČNO 5 SANKANJE - ROGLA 36 SEJEM ALTERMED 9 SLOVENSKI KULTURNI PRAZNIK 32 MEDOBČINSKO TEKMOVANJE V MALEM...
+
+================================================================================
+
+--- Example 2 ---
+URL: http://absapk.org/casino-games/betting-casinos.html
+NSFW Prediction: non-nsfw (Confidence: 0.9996)
+Toxic Prediction: non-toxic (Confidence: 0.9997)
+
+Text Snippet: 21520cvbeixcvb10319367  Betting Casinos  I bet youll do the monkey dance if you spin many monkeys at the beginning of the free spins, betting casinos BC.Game features a cool collection of 25 provably fair games. You will receive one free re-spin whenever the wild logo appears on the reels, the latter three are unlikely to begin opening their resorts until at least early 2023.  Online Slots 7700  This means that the Cashmo Casino sister sites are Pocket Win, betting casinos just choose a casino from the list to start playing. No matter which method of contacting support you choose, betting casinos the 36-year-old allowed herself to be persuaded to sit down at the poker table again. Deposit bet bonus there is no respin limit, which was joined in its decision to postpone by the Pac-12. It is like choosing to withdraw for withdrawal and deposit for a deposit, and it will automatically cancel the series when you hit a winner.  Live casino tournaments  Once the funds have appeared in your ac...
+
+================================================================================
+
+--- Example 3 ---
+URL: http://alpine.sppd.ne.jp/kiroku/20221009_mikuni/index.html
+NSFW Prediction: non-nsfw (Confidence: 1.0000)
+Toxic Prediction: non-toxic (Confidence: 1.0000)
+
+Text Snippet: ﻿ 山の写真集 -三国山稜- 三国山稜（山梨県・静岡県）   2022/10/9 前のページ 全記録一覧 次のページ home   立山付近のブナ巨樹  体がまだ山を歩く体に戻っていない。危険のない、それでいて少し距離のあるコースを歩く。 立山付近のブナは変わらず、台地にドシっと根を張って鎮座している。ちょっとやそっとではへこたれない、図太い生命力を感じる。 立山展望台からは、ちょっとだけ雪を乗せた富士山が眺められた。  2022年10月9日(日) 曇り時々晴れ 歩行4時間40分 6:30篭坂峠-7:10アザミ平-7:40立山展望台7:47-8:12アザミ平-8:45大洞山8:50-9:40三国山10:20-10:52鉄砲木ノ頭11:05-11:20パノラマ台-11:37三国山ハイキングコース入口12:10-[バス]-12:20旭日丘-(歩く）-12:55篭坂峠
+
+================================================================================
+
+--- Example 4 ---
+URL: http://8mm8mm.com/News-1109583.html
+NSFW Prediction: non-nsfw (Confidence: 1.0000)
+Toxic Prediction: non-toxic (Confidence: 1.0000)
+
+Text Snippet: 女女VIVO18,国产精品丝袜黑色高跟鞋,国产午夜精品一区二区,国产999精品久久久久久    • <source id="i666m"></source>       <center id="i666m"><tr id="i666m"></tr></center>     •                                             歡迎您，來(lái)到杭州琪佑商貿有限公司！                     返回首頁(yè)|在線(xiàn)留言|聯(lián)系我們                                                            全國服務(wù)咨詢(xún)熱線(xiàn)：                15700088148                                                                                                                                                                                                                   • 網(wǎng)站首頁(yè)         •             • 關(guān)于我們         •             • 新聞資訊         •             • 產(chǎn)品展示         •             • 技術(shù)文章         •             • 資料下載         •             • 在線(xiàn)留言         •             • 聯(lián)系我們         •                                                                                                                                           新聞資訊 / news  您的位置：網(wǎng...
+
+================================================================================
+
+--- Example 5 ---
+URL: http://amadetabela.com/eczane-tabela-2
+NSFW Prediction: non-nsfw (Confidence: 0.9000)
+Toxic Prediction: non-toxic (Confidence: 0.9108)
+
+Text Snippet: +90 533 434 08 17 bilgi@amadetabela.com trende Amade Tabela ve Açık Hava Reklam Hizmetleri A.Ş.   • Anasayfa   • Hakkımızda   • Makina Parkurumuz   • Hizmetlerimiz     • Alüminyum Tabela     • Krom Kutu Harf Tabela     • Kompozit Cephe Kaplama     • Yönlendirme Tabela     • Uyarı Levhaları     • Totem Tabela     • Pleksi Tabela     • Paslanmaz Krom Tabela     • Kutu Harf Tabela   • Fiyat İste   • Referanslar   • İletişim Amade Tabela ve Açık Hava Reklam Hizmetleri A.Ş.   • Anasayfa   • Hakkımızda   • Makina Parkurumuz   • Hizmetlerimiz     • Alüminyum Tabela     • Krom Kutu Harf Tabela     • Kompozit Cephe Kaplama     • Yönlendirme Tabela     • Uyarı Levhaları     • Totem Tabela     • Pleksi Tabela     • Paslanmaz Krom Tabela     • Kutu Harf Tabela   • Fiyat İste   • Referanslar   • İletişim trende Amade Tabela ve Açık Hava Reklam Hizmetleri A.Ş. Aklınızda Bir Proje Mi Var? Aklınızda bir proje varsa ve fiyat almak istiyorsanız hemen Tıklayın ve Formu Doldurun! Ücretsiz keşif ekibimiz i...
+
+================================================================================
+
+--- Example 6 ---
+URL: http://acnn.akubihar.ac.in/Default.aspx
+NSFW Prediction: non-nsfw (Confidence: 1.0000)
+Toxic Prediction: non-toxic (Confidence: 1.0000)
+
+Text Snippet: Logo +91 810 292 6986 Call us   •  WEB MAIL     •  |   • Query Us @ Menu   • Home   • National Advisory Com.   • CAREERS in Nano   • Head @ Centre   • Visitors @ Centre   • Annual Reports   • Activities      Research Activities      Scientific activities      Research & Developement Infrastructure    • Media Response           • Hon’ble Education Minister Sri Sunil Kumar Ji, Hon’ble Secretary Sri Baidyanath Yadav,     Director Higher Education Prof. Rekha Kumari and some other Government officers     visited the Center's Lab on 22-08-2024   • An MoU between AKU, Patna, and the National Institute of Ayurveda, Jaipur,     aims to merge modern science with traditional Ayurvedic practices in Nanotechnology.   • Professor of Ayurvedic Science Prof Prabhat Kr Dwevedi     Awarded Ph.D. In Nanotechnogy in Ayurvedic Science   • Hon'ble CM of Bihar, Shri Nitish Kumar going through the developments of Centre   • Hon'ble CM of Bihar, Shri Nitish Kumar with the officials of the Centre   • Bihar Div...
+
+================================================================================
+
+--- Example 7 ---
+URL: http://1pekesat-exae.mysch.gr/exae/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Ddelete_cookies&sid=895ec649188d0e4bfff2f75f02ff8b0a
+NSFW Prediction: non-nsfw (Confidence: 0.9996)
+Toxic Prediction: non-toxic (Confidence: 0.9991)
+
+Text Snippet: Helpdesk εξΑΕ 1ου ΠΕΚΕΣ Αττικής  Υποστηρικτική Ομάδα για την εξ αποστάσεως Εκπαίδευση  Μετάβαση στο περιεχόμενο  Ειδική αναζήτηση   • Γρήγορες συνδέσεις     • Αναπάντητα θέματα     • Ενεργά θέματα     • Αναζήτηση   • Συχνές ερωτήσεις   • Σύνδεση   • Εγγραφή   • Ευρετήριο Δ. Συζήτησης   • Αναζήτηση  Σύνδεση  Ξέχασα τον κωδικό μου    Εγγραφή  Προκειμένου να συνδεθείτε πρέπει να είστε εγγεγραμμένο μέλος. Η εγγραφή γίνεται σε λίγα μόνο λεπτά, αλλά σας παρέχει αυξημένες δυνατότητες. Οι διαχειριστές του συστήματος συζητήσεων μπορεί επίσης να χορηγούν επιπρόσθετα δικαιώματα στα εγγεγραμμένα μέλη. Πριν συνδεθείτε, σιγουρευτείτε ότι γνωρίζετε τους όρους χρήσης και τις σχετικές πολιτικές. Παρακαλώ να διαβάσετε τους κανόνες κάθε Δ. Συζήτησης κατά την πλοήγησή σας σε αυτό το σύστημα συζητήσεων.  Όροι χρήσης | Πολιτική απορρήτου  Εγγραφή    • Ευρετήριο Δ. Συζήτησης   • Όλοι οι χρόνοι είναι UTC+03:00   • Διαγραφή cookies   • Επικοινωνήστε μαζί μας  Δημιουργήθηκε από phpBB® Forum Software © phpBB Lim...
+
+================================================================================
+
+--- Example 8 ---
+URL: http://agrarimmobilien-bayern.de/Immobilien-Kaufgesuche/index-372.html
+NSFW Prediction: non-nsfw (Confidence: 0.9671)
+Toxic Prediction: non-toxic (Confidence: 0.8757)
+
+Text Snippet: Pfeiffer & Koberstein Agrarimmobilien GmbH Fachmakler für landwirtschaftliche und ländliche Anwesen    Startseite  |  Über uns  |  Impressum & Kontakt  |  Mein Bereich  |  Datenschutz Bauernregel zum    17. April 2025 Info-Telefon   Nord: 04503 - 7793957   Süd: 09852 - 6157360     Europäische Union (EU) Deutschland   Deutschland (207) Österreich   Österreich (7) Kroatien   Kroatien (1) Polen   Polen (3) Ungarn   Ungarn (5)   Forst- / Landwirtschaft subventioniert România   Rumänien () Georgien   Georgien (13)   Unsere häufigsten Suchbegriffe  Acker   Ackerfläche   Ackerflächen   Ackerland   Alleinlage   Alleinlage bayern   Alte mühle   Altes kloster   Am see   Aussiedlerhof   Bachlauf   Bauernhof   Bauernhof nrw   Bauernhäuser   Bauernhöfe   Bergbauernhof   Berghütte   Bio   Biogas   Denkmalschutz   Dreiseithof   Eigenjagd   Fachwerkhaus   Ferienhaus   Fischteich   Fischweiher   Fläche   Forsthaus   Forsthäuser   Geflügel   Geflügelhof   Grünland   Gutshof   Gärtnerei   Herrenhäuser   ...
+
+================================================================================
+
+--- Example 9 ---
+URL: http://agrotv.md/tag/aipa/
+NSFW Prediction: non-nsfw (Confidence: 0.9999)
+Toxic Prediction: non-toxic (Confidence: 0.9998)
+
+Text Snippet: Agro TV MoldovaAgro TV Moldova - Moldova  BASF 1300×123 31.12.2025   • Principală   • Despre noi     • Despre AGRO TV Moldova     • Echipa AGRO TV Moldova   • Agricultură   • Social     • Cultură   • Economie   • Industrie   • Externe   • Emisiuni     • Buletin de știri     • Actualitatea la Raport     • La Taclale Amicale     • Bursa muncii     • Agricultura 4.0     • ABC-ul Fermierului     • Cu alte cuvinte     • Profu’ de nutriție     • Rețeta săptămânii     • Născut în Moldova     • Agricultura cu Valoare Adăugată     • Concluzii politice     • Agri Smart     • Agrodinastii: Satul și Oamenii     • Despre noi, altfel     • VIN la Tine     • Zona Verde     • Just Vlog     • Alegeri și priorități   • Advertoriale   • Live Sales   • Program TV   • Carieră AgroTV   • Acasă   • AIPA navigare Tag  AIPA  AIPA a autorizat plăți de peste 42 milioane lei pentru fermieri  Redactor Sef 15 apr. 2025 Fermierii din Republica Moldova vor beneficia de sprijin financiar în valoare totală de 42,54 mil...
+
+================================================================================
+
+--- Example 10 ---
+URL: http://acorsan.com.br/caixa-dagua-cilindrico-vertical-com-fundo-reto
+NSFW Prediction: non-nsfw (Confidence: 0.9992)
+Toxic Prediction: non-toxic (Confidence: 0.9984)
+
+Text Snippet: TELEVENDAS / MSG/WHATSAPP TEL: 016-99795-2844  Atendimento 24 horas  comercial@acorsan.com.br  image-removebg-preview.png   • Home   • COBERTURA STEEL FRAME CRECHES FNDE     • Steel Frame Escola de Educação Infantil Tipo C     • Steel Frame Escola de educação Infantil Tipo B     • Steel Frame Reforma     • Steel Frame Ampliação     • Steel Frame MI – Escola de Educação Infantil Tipo B     • Steel Frame MI – Escola de Educação Infantil Tipo C     • Steel Frame Construção     • Steel Frame Escola 12 salas – Projeto FNDE 2014     • Steel Frame Projeto Tipo B – Bloco Estrutural     • Steel Frame Projeto Tipo C – Bloco Estrutural     • Steel Frame Escola Infantil – Tipo B Projeto Novo     • Steel Frame Escola Infantil – Tipo C Projeto Novo     • Steel Frame Ampliação Módulo Infantil em Escolas     • Steel Frame Creche Pré-Escola – Tipo 3     • Steel Frame Quadra Escolar Coberta e Vestiário – Modelo 2     • Steel Frame Escola com o projeto elaborado     • Steel Frame Ampliação Proinfância Ti...
+
+================================================================================
+
+--- Example 11 ---
+URL: http://96-hi.com/index.phtml?PUT=gift_send&AID=207437&FID=1381841
+NSFW Prediction: non-nsfw (Confidence: 0.9878)
+Toxic Prediction: non-toxic (Confidence: 0.9863)
+
+Text Snippet: 會員登入 加入會員 業績排行 分鐘數排行 已消費會員數 平均分鐘數 會員評價 上線時間 聊天人緣 包廂線上人數 一對多點數 一對一點數 網站新人 上線狀態排序 網站推薦 已審核本人照 談情說愛 成人視訊 好消息！9月9日起，免費 視訊聊天室正式開跑囉！ 歡迎哥哥、妹妹一起來~ ^^ 好消息！9月9日起，免費 視訊聊天室正式開跑囉！ 歡迎哥哥、妹妹一起來~ ^^ 恭喜三月份消費排行前十名會員 獲得免費點數~ No.1 LV75699** -贈點10,000 點 No.2 LV28160** -贈點9,000 點 No.3 LV72247** -贈點8,000 點 No.4 LV52777** -贈點7,000 點 No.5 LV65749** -贈點6,000 點 No.6 LV68540** -贈點5,000 點 No.7 LV37566** -贈點4,000 點 No.8 LV71975** -贈點3,000 點 No.9 LV25850** -贈點2,000 點 No.10 LV16730** -贈點1,000 點  帳號：  如果您已經是本中心會員者，請輸入您的帳號及密碼登入。 不是會員請先 加入會員。 您忘記密碼可進入查詢密碼。 密碼： 圖片驗證 :   與我們聯絡 |  加入會員   |  賺錢聯盟專區  |  加入賺錢聯盟  |   手機行動裝置請先下載APP才能進入主播包廂  QR Code說明 iOS版設備需求 : 1. iOS 4.3以上版本 2. iPhone, iPad, iPod touch Android版設備需求 : 1. ARMv7處理器, 550MHz以上cpu 2. 256MB以上記憶體 3. Android 2.2 以上  av99影片亞洲區
+
+================================================================================
+
+--- Example 12 ---
+URL: http://303323.com/xydt/dnqgqzl-65615.html
+NSFW Prediction: non-nsfw (Confidence: 1.0000)
+Toxic Prediction: non-toxic (Confidence: 1.0000)
+
+Text Snippet: <form id="rwjdv"></form>      <form id="rwjdv"></form>     <em id="rwjdv"></em>     <form id="rwjdv"></form>      <em id="rwjdv"><p id="rwjdv"><option id="rwjdv"></option></p></em><sub id="rwjdv"></sub><nav id="rwjdv"></nav>     <wbr id="rwjdv"></wbr><wbr id="rwjdv"><legend id="rwjdv"><video id="rwjdv"></video></legend></wbr>                                   歡迎您光臨鑫海合星科技（大連）有限公司官方網站！                       站點地圖 |         關于我們 |       XML |       您有4條詢盤信息！                                                       電凝切割器                                                             聯系電話：13602737580                                                                                                       • 首頁       •                               • 公司簡介       •                               • 產品展示       •                               • 新聞中心       •                               • 下載中心       •                               • 招商合作       •                               • 人才中心       •             ...
+
+================================================================================
+
+--- Example 13 ---
+URL: http://4381productions.com/author/admin/
+NSFW Prediction: non-nsfw (Confidence: 0.9992)
+Toxic Prediction: non-toxic (Confidence: 0.9916)
+
+Text Snippet: 4381 Productions   • Home   • About   • Blog   • Challenges   • Demos   • Montague Street 0  Cart  Life is a story. Tell it. Life is a story. Tell it. Life is a story. Tell it. Life is a story. Tell it.   • Home   • About   • Blog   • Challenges   • Demos   • Montague Street  Archives  Author Archive for: "KRH" Home / Scenes that make me laugh By KRH In Articles Posted October 8, 2021  Scenes that make me laugh  From Whit Stillman’s “Barcelona” released in 1994 and set in the city of Barcelona in 1987. Chris Eigeman, plays Fred a US Naval officer in Barcelona. He’s staying with [...]  0 Read More Scenes that made me laugh Part II By KRH In Uncategorized Posted October 4, 2021  Scenes that made me laugh Part II  From the brilliant film The In-laws. Peter Falk as an insane CIA agent who has gotten future in-law into an incredibly dangerous situation in the South American fiction country of Tejada. In [...]  0 Read More Lines that make me laugh By KRH In A thought Posted September 23, 202...
+
+================================================================================
+
+--- Example 14 ---
+URL: http://adishori.ryujin.shop/2022/09/12/post-888/
+NSFW Prediction: non-nsfw (Confidence: 1.0000)
+Toxic Prediction: non-toxic (Confidence: 1.0000)
+
+Text Snippet: TEAM adidas    • トップページ   • ボクシング     • 木村翔選手     • 馬場龍成選手   • キックボクシング     • 武尊選手     • 原口健飛選手     • 野杁正明選手     • 壽美選手     • MIO選手     • 宮元啓介選手     • 安本晴翔選手     • 宮越慶二郎選手     • 西元也史選手     • 寺島輝選手   • シュートボクシング     • 海人選手     • 笠原友希選手     • 笠原弘希選手   • 空手     • 植草歩選手     • 佐合尚人選手     • 五明宏人選手     • 多田野綾香選手     • 遠藤千夏選手     • 森口彩美選手   • 総合格闘技 MMA     • 弥益ドミネーター聡志選手   • テコンドー     • 山田美諭選手     • 鈴木セルヒオ選手   • ショップページ NEW ARTICLE 笠原兄弟がそろって外国の強豪と対戦！   • HOME   • サポート選手一覧   • キックボクシング   • 和島大海選手   • 和島大海選手が初回KO勝ち  和島大海選手が初回KO勝ち    • 2022.09.12   • 和島大海選手 和島大海選手が初回KO勝ち  カウンターのスキ 強敵相手にも逃さず  【9月11日・K-1よこはまつり】 メレティス・カコウバヴァス選手に初回KO勝ち  おめでとうございます！    • 前の記事     西元也史選手の鮮やかな上段蹴り！      西元也史選手の鮮やかな上段蹴り！ 2022.09.12    • 次の記事     鈴木セルヒオ選手・山田美諭選手がダブル優勝！      鈴木セルヒオ選手・山田美諭選手がダブル優勝！ 2022.09.14  adidas combat sports  Author：adidas combat sports 投稿一覧  関連する記事    • 全員計量パス！アディダスのK-1戦士たち      全員計量パス！アディダスのK-1戦士たち 2023.07.17      【サポート選手】和島大海選手野杁正明選手与座優貴選手龍斗選手 【7月17日・両国国技館】K-1 WORLD GPで集結！ ご武運をお祈りします！[…]    • 和島大海選...
+
+================================================================================
+
+--- Example 15 ---
+URL: http://aichi-progolf.info/info/2019-avantia02/
+NSFW Prediction: non-nsfw (Confidence: 1.0000)
+Toxic Prediction: non-toxic (Confidence: 1.0000)
+
+Text Snippet: APGA  愛知県プロゴルフ協会 Aichi Pro Golf Association  TEL080-9111-1969            • Greetingご挨拶     • ご挨拶   • Infomationお知らせやイベント     • お知らせ   • About usAPGAとは？     • APGAとは？     • 組織概要     • 入会条件   • Competition競技会     • 終了した競技会       • 「2018年グローアップツアー第1戦」GROWUP TOUR 2018 1st       • 「2018年グローアップツアー第2戦」GROWUP TOUR 2018 2nd       • 「2018年アーレックスカップマッチプレー選手権」arexcup2018       • 「2019年グローアップツアー第1戦」GROWUP TOUR 2019 1st       • 「2019年グローアップツアー第2戦」GROWUP TOUR 2019 2nd       • 「2019年グローアップツアー第3戦」GROWUP TOUR 2019 3rd       • 「2019年グローアップファイナル」GROWUP FINAL 2019       • 「2019年アーレックスカップマッチプレーゴルフトーナメント」arexcup2019       • 「2019年アヴァンティアカップ」AVANTIA CUP 2019.3.29-30   • MemberAPGA会員     • APGA役員   • Contact usお問い合わせ     • 準備中   • HOME   • お知らせ   • 「アバンティアカップ」予選結果と決勝ラウンド大会速報ページはこちらから Infoお知らせ  APGA（愛知県プロゴルフ協会）からゴルフに関する情報（イベント開催・告知・募集）など発信致します。    • HOME   • お知らせ   • 「アバンティアカップ」予選結果と決勝ラウンド大会速報ページはこちらから  「アバンティアカップ」予選結果と決勝ラウンド大会速報ページはこちらから  予選結果報告  決勝ラウンド　スタート表  予選ラウンドは３県が激突する白熱した戦いになりました！  いよいよ明日は、決勝ラウンド／　３月30日...
+
+================================================================================
+
+--- Example 16 ---
+URL: http://8-0.fr/tag/pinterest/
+NSFW Prediction: non-nsfw (Confidence: 0.9995)
+Toxic Prediction: non-toxic (Confidence: 0.9998)
+
+Text Snippet:   • À propos   • Contact   • Boutique Suivre sur Twitter Abonnement RSS Accedez a la boutique ! Page Facebook 8-0.fr logo 8-0  Pinterest : démission du CEO  avril 06th, 2012 | Category: Non classé Désormais chaque semaine MaK (Matthieu, le nouveau matelot) publiera un dessin sur l’actualité. Paul Sciarra a dévoilé la nouvelle dans un de ses posts sur le blog de Pinterest. Il quitte donc l’entreprise dont il est le co-fondateur mais les raisons restent floues. Il aurait accepté un poste d’entrepreneur en résidence chez Andreessen Horowitz. La suite au prochain épisode… Désormais vous pourrez découvrir chaque semaine un dessin de l’actualité autour de la veille, de l’e-réputation, des réseaux sociaux ou tant d’autres sujets passionnants. A cette occasion, le dessinateur MaK du blog MymicmaK s’associe avec Blueboat pour vous proposer des articles moins… conventionnels.  Auteur : Matthieu  Retrouvez tout l’article Pinterest : démission du CEO sur le site BlueBoat.  Article révélé par Mashu...
+
+================================================================================
+
+--- Example 17 ---
+URL: http://aleida13o360542.wikidot.com/blog:_start/date/2018.8
+NSFW Prediction: non-nsfw (Confidence: 0.9994)
+Toxic Prediction: non-toxic (Confidence: 0.9995)
+
+Text Snippet: Wikidot.com .wikidot.com Share on twitter Facebook Delicious Digg Reddit Reddit Edit History Tags Source Explore »    read about web news  read about web news    • Home   • Pages     • About     • Contact     • Favourites   • Gallery   • Admin     • Edit page     • Print page     • Edit this menu     • Edit side menu     • Page categories     • Recent changes     • Change theme     • Manage site   • Help     • Wiki syntax     • Modules reference Create account or Sign in  Legal | About | Contact  Tags | Edit | Source | Print  Posts by date    • 2019 (81)     • May (29)     • April (21)     • March (20)     • February (5)     • January (6)   • 2018 (324)     • December (6)     • November (92)     • October (72)     • September (47)     • August (49)     • July (31)     • June (6)     • May (12)     • April (6)     • March (3)  Posts by tags  It seems you have no tags attached to pages. To attach a tag simply click on the tags button at the bottom of any page.  Watchers  aleida13o360542a...
+
+================================================================================
+
+--- Example 18 ---
+URL: http://366392.haaxz.com/?PUT=a_show&AID=104124&FID=366392&R2=&CHANNEL=
+NSFW Prediction: non-nsfw (Confidence: 0.9988)
+Toxic Prediction: non-toxic (Confidence: 0.9999)
+
+Text Snippet: 回首頁點數補給站會員專區加入會員使用說明付款方式問題反映 恭喜三月份消費排行前十名會員 獲得免費點數~ No.1 LV75699** -贈點10,000 點 No.2 LV28160** -贈點9,000 點 No.3 LV72247** -贈點8,000 點 No.4 LV52777** -贈點7,000 點 No.5 LV65749** -贈點6,000 點 No.6 LV68540** -贈點5,000 點 No.7 LV37566** -贈點4,000 點 No.8 LV71975** -贈點3,000 點 No.9 LV25850** -贈點2,000 點 No.10 LV16730** -贈點1,000 點   頻道指數     限制級(火辣)   輔導級(曖昧)   普通級(清純)   排序  業績排行│ 一對多收費排序│ 一對一收費排序   頻道  台妹專區│ 新人區│ 一對一視訊區│ 一對多視訊區│ 免費聊天區│ 免費視訊區 搜尋主持人網名/編號：   (夏之雪)   一對一忙線中 最近上線時間 : 2025-04-18 00:11:02 免費聊天 進入包廂 送禮 給主持人打分數 加到我的最愛 說明 免費文字聊天:  開放 一對多視訊聊天: 每分鐘 8 點 一對一視訊聊天: 每分鐘 40 點 性別: 女性 年齡: 22 歲 血型: B型 身高: 164 公分(cm) 體重: 47 公斤(kg) 區域: 台北縣  相貌  平均評價 5.0000 分  身材  平均評價 5.0000 分  表演  平均評價 5.0000 分  態度  平均評價 5.0000 分 　註﹕最高值 5分 相貌身材表演態度 會員[ LV2389894 ] kischih 的評論：弄著弄著就失守了?舒服???只有一個字形容，爽? ( 2025-04-17 23:51:04 ) 相貌身材表演態度 會員[ LV4176265 ] 寶藏男孩 的評論： 這麼久沒來依然美麗動人 ( 2025-04-17 23:30:05 ) 相貌身材表演態度 會員[ LV7561382 ] 喝到monkey 的評論：漂亮的姊姊，既性感又聰明，一看就上癮，令人情不自禁 ( 2025-04-15 12:46:58 ) 相貌身材表演態度 會員[ LV7307630 ] EJ000 的評論：好想要被口爆 ( 2...
+
+================================================================================
+
+--- Example 19 ---
+URL: http://2kgames.eu/rizqhy/706105255.shtml
+NSFW Prediction: non-nsfw (Confidence: 1.0000)
+Toxic Prediction: non-toxic (Confidence: 1.0000)
+
+Text Snippet: 404 Not Found  nginx
+
+================================================================================
+
+--- Example 20 ---
+URL: http://agrotraktor.pl/produkt/998-kwadratowa-owijarka-do-bel-mchale/
+NSFW Prediction: non-nsfw (Confidence: 0.9995)
+Toxic Prediction: non-toxic (Confidence: 0.9992)
+
+Text Snippet: Koniec treści +48 785 776 007 biuro@agrotraktor.pl Agrotraktor – traktory i maszyny rolnicze – serwis i sprzedaż   • Home   • Nowe produkty     • Agregaty uprawowe       • Agro-Factory – agregaty uprawowe     • Chwytaki do bel       • MCHALE – chwytaki do bel     • Kosiarki rolnicze       • MCHALE – kosiarki rolnicze     • Maszyny do ścielenia i podawania pasz       • MCHALE – maszyny do ścielenia i podawania pasz     • Owijarki do bel okrągłych       • MCHALE – owijarki do bel okrągłych     • Owijarki do bel kwadratowych       • MCHALE – owijarki do bel kwadratowych     • Prasy stałokomorowe       • MCHALE – prasy stałokomorowe     • Prasy zmiennokomorowe       • MCHALE – prasy zmiennokomorowe     • Wały uprawowe       • Agro-Factory – wały uprawowe     • Wozy asenizacyjne       • Pomot – wozy asenizacyjne     • Wozy paszowe       • ZAMET – wozy paszowe     • Zgrabiarki i przetrząsacze       • Przetrząsacze       • Zgrabiarki     • Zintegrowane prasoowijarki       • MCHALE – zintegrow...
+
+================================================================================
+

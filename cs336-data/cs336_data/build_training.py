@@ -18,7 +18,7 @@ def process_positive_examples(warc_path: str, output_file: str, max_examples: in
             try:
                 html_bytes = record.reader.read()
                 
-                # Extract plain text using your Resiliparse function
+                # Extract plain text using Resiliparse function
                 text = extract_text(html_bytes)
                 if not text.strip():
                     continue
@@ -41,6 +41,7 @@ def process_positive_examples(warc_path: str, output_file: str, max_examples: in
                     print(f"Saved {count} positive examples...")
                     
             except Exception as e:
+                print(f"Error processing record: {e}")
                 continue
 
     print(f"Finished. Saved {count} high-quality examples.")

@@ -7,8 +7,7 @@ from typing import Any
 from cs336_data.implementation import extract_text, language_identification
 from cs336_data.implementation import mask_emails, mask_phone_numbers, mask_IP_addresses
 from cs336_data.implementation import classify_NSFW, classify_toxic_speech
-from cs336_data.implementation import gopher_quality_filter, quality_classifier
-
+from cs336_data.implementation import gopher_quality_filter, quality_classifier, exact_deduplication, minhash_deduplication
 
 def run_extract_text_from_html_bytes(html_bytes: bytes) -> str | None:
     return extract_text(html_bytes)
@@ -48,7 +47,7 @@ def run_gopher_quality_filter(text: str) -> bool:
 def run_exact_line_deduplication(
     input_files: list[os.PathLike], output_directory: os.PathLike
 ):
-    raise NotImplementedError
+    return exact_deduplication(input_files, output_directory)
 
 
 def run_minhash_deduplication(
@@ -59,4 +58,6 @@ def run_minhash_deduplication(
     jaccard_threshold: float,
     output_directory: os.PathLike,
 ):
-    raise NotImplementedError
+    return minhash_deduplication(
+        input_files, num_hashes, num_bands, ngrams, jaccard_threshold, output_directory
+    )
