@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-uv run pytest -v ./tests --junitxml=test_results.xml || true
+uv run pytest -v ./cs336-data/tests --junitxml=test_results.xml || true
 echo "Done running tests"
 
 # Set the name of the output tar.gz file
-output_file="cs336-spring2025-assignment-4-submission.zip"
+output_file="cs336-spring2026-assignment-2-submission.zip"
 rm "$output_file" || true
 
-# Compress all files in the current directory into a single zip file
-zip -r "$output_file" . \
+# Compress cs336-data/, data/, and the writeup PDF (excluding large/binary files to stay under 100 MB)
+zip -r "$output_file" cs336-data/ data/ ECE405_assigment_2_writeup.pdf \
     -x '*egg-info*' \
     -x '*mypy_cache*' \
     -x '*pytest_cache*' \
@@ -18,15 +18,14 @@ zip -r "$output_file" . \
     -x '*__pycache__*' \
     -x '*.pkl' \
     -x '*.pickle' \
-    -x '*.txt' \
     -x '*.log' \
-    -x '*.json' \
     -x '*.out' \
     -x '*.err' \
     -x '.git*' \
     -x '.venv/*' \
     -x '*.bin' \
     -x '*.pt' \
-    -x '*.pth'
+    -x '*.pth' \
+    -x 'data/CC-MAIN-*'
 
 echo "All files have been compressed into $output_file"
